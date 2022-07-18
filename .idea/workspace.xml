@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bad216d6-90eb-4bef-beba-d6c5e0c52ef8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Aplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CarBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CarManualBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Manual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SUVEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SportEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Aplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
