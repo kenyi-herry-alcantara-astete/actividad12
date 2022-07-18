@@ -14,7 +14,7 @@ public class Director {
     }
     public void constructorSUV(Builder builder){
         builder.reset();
-        builder.setSets(5);
+        builder.setSets(9);
         builder.setEngine(new SUVEngine("suv"));
         builder.setTripComputer(false);
         builder.setGPS(true);
