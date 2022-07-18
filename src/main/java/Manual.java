@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class Manual {
+public class Manual {
+    public int numberSeats;
+    public String model;
+    public String engine;
+    public boolean gps;
+    public boolean tripComputer;
 }
